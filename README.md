@@ -10,6 +10,3 @@ Html-Css yapısı kullanılarak yapıldı.
 
 ![](Ekran.png)
 
-
-# BasitWebSite
-# BasitSite
